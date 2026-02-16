@@ -1,3 +1,5 @@
+// Reverse bits of a given 32 bits signed integer.
+
 var reverseBits = function (n) {
   let result = 0;
 
