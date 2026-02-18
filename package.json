@@ -1,0 +1,12 @@
+{
+  "name": "leetcode-problems",
+  "version": "1.0.0",
+  "description": "A collection of my solutions to LeetCode problems, organized by programming language and difficulty level.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
